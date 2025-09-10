@@ -36,3 +36,5 @@ The Fusion 360 script exports each generated lattice assembly as a STEP (.step) 
 ## Compression Strength Measurement Using ANSYS Mechanical
 
 The generated STEP models are imported into ANSYS Mechanical to perform compression strength analysis. This simulation investigates the mechanical behavior and performance of the lattice under loading conditions, providing vital insight into structural robustness and optimization opportunities. The entire process—from Excel fingerprint to mechanical testing—forms a cohesive workflow for lattice design, generation, and evaluation.
+
+<img width="1280" height="667" alt="image" src="https://github.com/user-attachments/assets/415adfc7-24b0-4fae-973a-51a97600aec1" />
